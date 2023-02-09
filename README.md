@@ -1,1 +1,3 @@
-# AWD_PiniaAndVuexComparation
+# Vuex vs Pinia
+# Никола Николовски 203234
+# Јован Стојчев 201080
